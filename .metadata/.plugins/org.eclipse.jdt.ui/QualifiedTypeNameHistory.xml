@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.itperson.service.CoursesViewService"/>
+<fullyQualifiedTypeName name="com.itperson.dto.Category"/>
+<fullyQualifiedTypeName name="com.itperson.dao.SubCategoryDao"/>
+<fullyQualifiedTypeName name="com.itperson.dto.ViewStudyContentsList"/>
+<fullyQualifiedTypeName name="com.itperson.service.CategoryViewService"/>
+<fullyQualifiedTypeName name="com.itperson.dto.Field"/>
+<fullyQualifiedTypeName name="com.itperson.dto.Question"/>
+<fullyQualifiedTypeName name="com.itperson.dao.MemberDao"/>
+<fullyQualifiedTypeName name="org.apache.ibatis.session.SqlSession"/>
+<fullyQualifiedTypeName name="com.itperson.dto.Member"/>
+<fullyQualifiedTypeName name="com.itperson.service.Service"/>
+<fullyQualifiedTypeName name="com.itperson.dao.Dao"/>
+<fullyQualifiedTypeName name="com.itperson.dao.FieldDao"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="com.itperson.dao.StudyLogDao"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="com.itperson.dao.QuestionDao"/>
+<fullyQualifiedTypeName name="java.util.Random"/>
+<fullyQualifiedTypeName name="java.util.Collections"/>
+<fullyQualifiedTypeName name="java.util.Comparator"/>
+<fullyQualifiedTypeName name="java.sql.Date"/>
+<fullyQualifiedTypeName name="com.itperson.dto.ViewForStudy"/>
+<fullyQualifiedTypeName name="com.itperson.dto.Test"/>
+</qualifiedTypeNameHistroy>

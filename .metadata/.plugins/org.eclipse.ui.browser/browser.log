@@ -1,0 +1,44 @@
+
+9월 02, 2020 17:38:44.18 NEW SESSION
+9월 02, 2020 17:38:44.18 [9780:5284:0902/173844.182:ERROR:device_event_log_impl.cc(208)] [17:38:44.182] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+
+9월 03, 2020 16:08:49.29 NEW SESSION
+9월 03, 2020 16:08:49.29 [3836:6032:0903/160849.284:ERROR:device_event_log_impl.cc(208)] [16:08:49.284] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+9월 03, 2020 16:30:18.18 [3836:10500:0903/163018.185:ERROR:mcs_client.cc(755)] Received close command, resetting connection.
+
+9월 05, 2020 08:37:37.91 NEW SESSION
+9월 05, 2020 08:37:37.91 [17240:2744:0905/083737.899:ERROR:device_event_log_impl.cc(208)] [08:37:37.898] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+
+9월 09, 2020 08:31:55.65 NEW SESSION
+9월 09, 2020 08:31:55.65 [1868:19548:0909/083155.654:ERROR:media_history_store.cc(363)] Failed to create or update the media history store.
+9월 09, 2020 08:32:36.16 [1868:6300:0909/083236.165:ERROR:device_event_log_impl.cc(208)] [08:32:36.165] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+
+9월 10, 2020 08:56:42.60 NEW SESSION
+9월 10, 2020 08:56:42.60 [16560:16688:0910/085642.603:ERROR:media_history_store.cc(363)] Failed to create or update the media history store.
+9월 10, 2020 08:57:16.36 [16560:16124:0910/085716.363:ERROR:device_event_log_impl.cc(208)] [08:57:16.363] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+
+9월 11, 2020 09:07:43.53 NEW SESSION
+9월 11, 2020 09:07:43.53 [7348:10372:0911/090743.537:ERROR:media_history_store.cc(363)] Failed to create or update the media history store.
+9월 11, 2020 09:08:40.86 [7348:6628:0911/090840.864:ERROR:device_event_log_impl.cc(208)] [09:08:40.863] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+9월 11, 2020 13:30:29.75 [7348:12536:0911/133029.755:ERROR:socket_stream.cc(219)] Closing stream with result -2
+9월 11, 2020 13:30:36.95 [7348:12536:0911/133036.957:ERROR:socket_stream.cc(219)] Closing stream with result -2
+9월 11, 2020 13:40:59.68 [7348:12536:0911/134059.689:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+9월 14, 2020 08:41:11.48 NEW SESSION
+9월 14, 2020 08:41:11.48 [10728:10904:0914/084111.479:ERROR:media_history_store.cc(363)] Failed to create or update the media history store.
+9월 14, 2020 08:41:24.57 [10728:9420:0914/084124.574:ERROR:device_event_log_impl.cc(208)] [08:41:24.574] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+
+9월 14, 2020 17:26:37.94 NEW SESSION
+9월 14, 2020 17:26:37.94 [12484:1668:0914/172637.941:ERROR:media_history_store.cc(363)] Failed to create or update the media history store.
+9월 14, 2020 17:26:52.07 [12484:1108:0914/172652.078:ERROR:device_event_log_impl.cc(208)] [17:26:52.078] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+
+9월 17, 2020 14:46:30.92 NEW SESSION
+9월 17, 2020 14:46:30.92 [22364:18228:0917/144630.923:ERROR:media_history_store.cc(363)] Failed to create or update the media history store.
+9월 17, 2020 14:46:42.31 [22364:3116:0917/144642.319:ERROR:device_event_log_impl.cc(208)] [14:46:42.319] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+9월 17, 2020 14:49:25.14 [22364:3116:0917/144925.147:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+
+9월 21, 2020 09:26:48.25 NEW SESSION
+9월 21, 2020 09:26:48.25 [7740:11896:0921/092648.254:ERROR:media_history_store.cc(363)] Failed to create or update the media history store.
+9월 21, 2020 09:27:18.22 [7740:17684:0921/092718.221:ERROR:device_event_log_impl.cc(208)] [09:27:18.221] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+9월 21, 2020 13:13:46.88 [7740:18064:0921/131346.884:ERROR:socket_stream.cc(219)] Closing stream with result -2
+9월 21, 2020 13:13:54.70 [7740:18064:0921/131354.701:ERROR:socket_stream.cc(219)] Closing stream with result -2
